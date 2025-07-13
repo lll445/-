@@ -1,5 +1,6 @@
-砍校长游戏/
-├── index.html             # 主游戏文件
-├── manifest.json          # PWA配置文件
-├── sw.js                  # Service Worker文件
-
+git init
+git add
+git commit -m"首次提交网站文件"
+git remote add origin
+https://github.com/LLL445/-.git
+git push -u origin main
